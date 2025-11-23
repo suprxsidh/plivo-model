@@ -1,0 +1,743 @@
+{
+  "gen_0": [],
+  "gen_1": [
+    {
+      "start": 11,
+      "end": 16,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 20,
+      "end": 31,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_2": [],
+  "gen_3": [
+    {
+      "start": 10,
+      "end": 15,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 21,
+      "end": 27,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "gen_4": [
+    {
+      "start": 13,
+      "end": 24,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_5": [
+    {
+      "start": 3,
+      "end": 27,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_6": [
+    {
+      "start": 14,
+      "end": 35,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_7": [
+    {
+      "start": 12,
+      "end": 48,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_8": [],
+  "gen_9": [],
+  "gen_10": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 17,
+      "end": 39,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_11": [],
+  "gen_12": [],
+  "gen_13": [
+    {
+      "start": 10,
+      "end": 15,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 21,
+      "end": 28,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "gen_14": [],
+  "gen_15": [],
+  "gen_16": [
+    {
+      "start": 14,
+      "end": 33,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_17": [
+    {
+      "start": 8,
+      "end": 19,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_18": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "gen_19": [
+    {
+      "start": 11,
+      "end": 16,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 20,
+      "end": 30,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_20": [
+    {
+      "start": 13,
+      "end": 24,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_21": [],
+  "gen_22": [
+    {
+      "start": 18,
+      "end": 27,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 31,
+      "end": 43,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_23": [
+    {
+      "start": 14,
+      "end": 40,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_24": [
+    {
+      "start": 14,
+      "end": 61,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_25": [
+    {
+      "start": 5,
+      "end": 36,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_26": [
+    {
+      "start": 13,
+      "end": 49,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_27": [
+    {
+      "start": 14,
+      "end": 23,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 27,
+      "end": 34,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_28": [],
+  "gen_29": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 17,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_30": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 17,
+      "end": 40,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_31": [
+    {
+      "start": 6,
+      "end": 13,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 17,
+      "end": 22,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "gen_32": [
+    {
+      "start": 11,
+      "end": 15,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 19,
+      "end": 31,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_33": [
+    {
+      "start": 8,
+      "end": 20,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_34": [],
+  "gen_35": [
+    {
+      "start": 8,
+      "end": 31,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_36": [
+    {
+      "start": 3,
+      "end": 25,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_37": [
+    {
+      "start": 13,
+      "end": 25,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_38": [
+    {
+      "start": 13,
+      "end": 25,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_39": [
+    {
+      "start": 6,
+      "end": 13,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 17,
+      "end": 23,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "gen_40": [
+    {
+      "start": 8,
+      "end": 20,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_41": [
+    {
+      "start": 3,
+      "end": 28,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_42": [
+    {
+      "start": 14,
+      "end": 61,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_43": [],
+  "gen_44": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 17,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_45": [
+    {
+      "start": 8,
+      "end": 30,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_46": [
+    {
+      "start": 5,
+      "end": 38,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_47": [
+    {
+      "start": 20,
+      "end": 71,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_48": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "gen_49": [
+    {
+      "start": 11,
+      "end": 17,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 21,
+      "end": 31,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_50": [
+    {
+      "start": 8,
+      "end": 17,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 21,
+      "end": 43,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_51": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "gen_52": [
+    {
+      "start": 8,
+      "end": 17,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "gen_53": [
+    {
+      "start": 14,
+      "end": 38,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_54": [],
+  "gen_55": [
+    {
+      "start": 14,
+      "end": 36,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_56": [
+    {
+      "start": 6,
+      "end": 13,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 17,
+      "end": 23,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "gen_57": [
+    {
+      "start": 13,
+      "end": 23,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_58": [
+    {
+      "start": 11,
+      "end": 16,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 20,
+      "end": 42,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_59": [
+    {
+      "start": 5,
+      "end": 38,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_60": [],
+  "gen_61": [
+    {
+      "start": 15,
+      "end": 43,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_62": [
+    {
+      "start": 5,
+      "end": 34,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_63": [],
+  "gen_64": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    },
+    {
+      "start": 17,
+      "end": 40,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_65": [
+    {
+      "start": 8,
+      "end": 14,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_66": [
+    {
+      "start": 10,
+      "end": 15,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 21,
+      "end": 28,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "gen_67": [
+    {
+      "start": 8,
+      "end": 31,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_68": [
+    {
+      "start": 10,
+      "end": 16,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 22,
+      "end": 29,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "gen_69": [],
+  "gen_70": [
+    {
+      "start": 13,
+      "end": 21,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 25,
+      "end": 31,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "gen_71": [],
+  "gen_72": [],
+  "gen_73": [
+    {
+      "start": 12,
+      "end": 41,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_74": [],
+  "gen_75": [
+    {
+      "start": 15,
+      "end": 29,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_76": [],
+  "gen_77": [
+    {
+      "start": 20,
+      "end": 72,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ],
+  "gen_78": [],
+  "gen_79": [
+    {
+      "start": 8,
+      "end": 21,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_80": [],
+  "gen_81": [],
+  "gen_82": [
+    {
+      "start": 8,
+      "end": 13,
+      "label": "PERSON_NAME",
+      "pii": true
+    }
+  ],
+  "gen_83": [],
+  "gen_84": [
+    {
+      "start": 3,
+      "end": 25,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_85": [
+    {
+      "start": 8,
+      "end": 19,
+      "label": "DATE",
+      "pii": true
+    }
+  ],
+  "gen_86": [
+    {
+      "start": 12,
+      "end": 42,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_87": [
+    {
+      "start": 6,
+      "end": 12,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 16,
+      "end": 21,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "gen_88": [],
+  "gen_89": [],
+  "gen_90": [
+    {
+      "start": 8,
+      "end": 30,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_91": [],
+  "gen_92": [],
+  "gen_93": [
+    {
+      "start": 21,
+      "end": 46,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_94": [
+    {
+      "start": 16,
+      "end": 49,
+      "label": "PHONE",
+      "pii": true
+    }
+  ],
+  "gen_95": [
+    {
+      "start": 10,
+      "end": 17,
+      "label": "CITY",
+      "pii": false
+    },
+    {
+      "start": 23,
+      "end": 31,
+      "label": "LOCATION",
+      "pii": false
+    }
+  ],
+  "gen_96": [
+    {
+      "start": 12,
+      "end": 38,
+      "label": "EMAIL",
+      "pii": true
+    }
+  ],
+  "gen_97": [],
+  "gen_98": [
+    {
+      "start": 6,
+      "end": 12,
+      "label": "LOCATION",
+      "pii": false
+    },
+    {
+      "start": 16,
+      "end": 22,
+      "label": "CITY",
+      "pii": false
+    }
+  ],
+  "gen_99": [
+    {
+      "start": 15,
+      "end": 37,
+      "label": "CREDIT_CARD",
+      "pii": true
+    }
+  ]
+}
